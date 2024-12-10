@@ -18,6 +18,11 @@ public   class UIBig : UIBehaviourData
         UIManager.Instance.ShowUI<UITest2>("UITest2");
     }
 
+    public void OnOpenPage1()
+    {
+        UIManager.Instance.ShowUI<UIPageTest>("UIPageTest");
+    }
+
     public override void InitData(System.Object args)
     {
         Debug.Log($"UIBig InitData {args}");
