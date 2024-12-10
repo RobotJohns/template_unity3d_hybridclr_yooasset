@@ -260,11 +260,8 @@ public class HostServerConfig
 4. `yooassets  生成资源`
 5. `hfs 部署`
 6. `运行`
-
-<figure class="video_container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/s8Cs2zaQ8g8" frameborder="0" allowfullscreen></iframe>
-</figure>
-
+7. 
+[![Watch the video](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2015-53-29.png)](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2015-53-29.mkv)
 
 
 ## 上手跑起来-热更新资源
@@ -274,6 +271,6 @@ public class HostServerConfig
 4. `hfs 部署`
 5. `运行 查看效果`
 
-<figure class="video_container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Djama3DxfiY" frameborder="0" allowfullscreen></iframe>
-</figure>
+[![Watch the video](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2016-58-30.png)](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2016-58-30.mkv)
+
+
