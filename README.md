@@ -260,7 +260,11 @@ public class HostServerConfig
 4. `yooassets  生成资源`
 5. `hfs 部署`
 6. `运行`
-<iframe width="560" height="315" src="https://www.youtube.com/embed/视频ID" frameborder="0" allowfullscreen></iframe>
+
+<figure class="video_container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/s8Cs2zaQ8g8" frameborder="0" allowfullscreen></iframe>
+</figure>
+
 
 
 ## 上手跑起来-热更新资源
@@ -269,4 +273,7 @@ public class HostServerConfig
 3. `yooassets  生成资源`
 4. `hfs 部署`
 5. `运行 查看效果`
-<iframe width="560" height="315" src="https://www.youtube.com/embed/视频ID" frameborder="0" allowfullscreen></iframe>
+
+<figure class="video_container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Djama3DxfiY" frameborder="0" allowfullscreen></iframe>
+</figure>
