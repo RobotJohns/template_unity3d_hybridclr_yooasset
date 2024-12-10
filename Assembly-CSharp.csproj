@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{317529A1-C71D-E76C-AA53-8F2F1239BE5C}</ProjectGuid>
+    <ProjectGuid>{73547E6E-8933-3E87-81B3-4430F17CD6A1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -433,6 +433,10 @@
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets\Packages\Newtonsoft.Json.13.0.3\lib\netstandard2.0\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="dnlib">
       <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@642d2cd644\Plugins\dnlib.dll</HintPath>
       <Private>False</Private>
@@ -443,10 +447,6 @@
     </Reference>
     <Reference Include="LZ4">
       <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@642d2cd644\Plugins\LZ4.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Assets\Packages\Newtonsoft.Json.13.0.3\lib\netstandard2.0\Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">
@@ -1080,7 +1080,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UI.csproj">
-      <Project>{AFD7DA1C-1445-2D85-2BA9-95C6E1B97867}</Project>
+      <Project>{68641CA7-D7BB-C819-9826-716484279E83}</Project>
       <Name>UI</Name>
     </ProjectReference>
   </ItemGroup>
