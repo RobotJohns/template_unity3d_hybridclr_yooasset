@@ -261,7 +261,7 @@ public class HostServerConfig
 5. `hfs 部署`
 6. `运行`
 7. 
-[![Watch the video](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2015-53-29.png)](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2015-53-29.mkv)
+[![Watch the video](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2015-53-29.png)](https://youtu.be/Djama3DxfiY)
 
 
 ## 上手跑起来-热更新资源
@@ -271,6 +271,6 @@ public class HostServerConfig
 4. `hfs 部署`
 5. `运行 查看效果`
 
-[![Watch the video](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2016-58-30.png)](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2016-58-30.mkv)
+[![Watch the video](https://github.com/RobotJohns/Assets/blob/main/202412/2024-12-10%2016-58-30.png)](https://youtu.be/s8Cs2zaQ8g8)
 
 
