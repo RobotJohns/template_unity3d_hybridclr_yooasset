@@ -196,7 +196,7 @@ public class HybirdCLRManager : MonoBehaviour
 ### 使用 hybridclr 自带的按钮生成也是可以的，他是有自己的目录的，我们自己编写的脚步 可以帮助我们打包生成，修改文件后缀 并且自行拷贝到 目标文件夹
 - #### 配置需要更新的程序集
  ![hybridclr](https://github.com/RobotJohns/Assets/blob/main/202412/png_03.png?raw=true)
-这里是配置 HybridCRL 需要热更新的 程序集
+这里是配置 HybridCLR 需要热更新的 程序集
 <font color="blue">Hot Update Assembly Definitions</font> 等价 <font color="blue">Hot Update Assemblies</font> 配置一个就可以了
 - #### 生成热更新资源
  ![hybridclr](https://github.com/RobotJohns/Assets/blob/main/202412/png_02.png?raw=true)
@@ -254,9 +254,9 @@ public class HostServerConfig
 ``` 
 
 ## 上手跑起来-运行
-1. `HybridCRl -> Generata -> All                          #生成HybridCRl 所需资源`
-2. `HybridCRl -> Assets   -> BuildDllAOTMetaDataAssembly  #生成元数据    并执行拷贝到资源路径`
-3. `HybridCRl -> Assets   -> BuildDllHotupdateAssembly    #生成代码      热更新 Dll 并执行拷贝`
+1. `HybridCLR -> Generata -> All                          #生成HybridCLR 所需资源`
+2. `HybridCLR -> Assets   -> BuildDllAOTMetaDataAssembly  #生成元数据    并执行拷贝到资源路径`
+3. `HybridCLR -> Assets   -> BuildDllHotupdateAssembly    #生成代码      热更新 Dll 并执行拷贝`
 4. `yooassets  生成资源`
 5. `hfs 部署`
 6. `运行`
@@ -266,7 +266,7 @@ public class HostServerConfig
 
 ## 上手跑起来-热更新资源
 1. `新加预制体 和 对应脚本`
-2. `HybridCRl -> Assets   -> BuildDllHotupdateAssembly    #生成代码      热更新 Dll`
+2. `HybridCLR -> Assets   -> BuildDllHotupdateAssembly    #生成代码      热更新 Dll`
 3. `yooassets  生成资源`
 4. `hfs 部署`
 5. `运行 查看效果`
